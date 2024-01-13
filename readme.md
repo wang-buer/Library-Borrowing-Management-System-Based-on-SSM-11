@@ -1,10 +1,4 @@
-# 基于SSM的图书馆 借阅管理系统
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**图书馆11**，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的图书馆 借阅管理系统11
 
 ## 1、项目介绍
 
@@ -35,41 +29,34 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292107567.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202212292107567.jpg)
 
 ### 4.2用户 模块
 
-![读者-查看公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112718.jpg)
+![读者-查看公告](https://www.codeshop.fun/Typora-Images/202212292112718.jpg)
 
-![读者-借阅查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112364.jpg)
+![读者-借阅查询](https://www.codeshop.fun/Typora-Images/202212292112364.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-借阅管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112580.jpg)
+![管理员-借阅管理](https://www.codeshop.fun/Typora-Images/202212292112580.jpg)
 
-![管理员-借阅图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112395.jpg)
+![管理员-借阅图书](https://www.codeshop.fun/Typora-Images/202212292112395.jpg)
 
-![管理员-图书管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112222.jpg)
+![管理员-图书管理](https://www.codeshop.fun/Typora-Images/202212292112222.jpg)
 
-### ![管理员-读者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112353.jpg)
+### ![管理员-读者管理](https://www.codeshop.fun/Typora-Images/202212292112353.jpg)
 
-![管理员-类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112054.jpg)
+![管理员-类型管理](https://www.codeshop.fun/Typora-Images/202212292112054.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112025.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202212292112025.jpg)
 
-![管理员-管理员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112113.jpg)
+![管理员-管理员管理](https://www.codeshop.fun/Typora-Images/202212292112113.jpg)
 
-![管理员-统计分析](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202212292112250.jpg)
+![管理员-统计分析](https://www.codeshop.fun/Typora-Images/202212292112250.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**图书馆11** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
